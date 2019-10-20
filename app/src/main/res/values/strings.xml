@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prac2NJRC</string>
+    <string name="escuela">TESOEM</string>
+    <string name="boton1">Siguiente</string>
+    <string name="alumno">Ricardo César Núñez Jiménez</string>
+    <string name="boton2">Siguiente</string>
+    <string name="ope">Operaciones Aritmeticas</string>
+</resources>
